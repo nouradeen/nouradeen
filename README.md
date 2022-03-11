@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on a Break-Out game with java 😄
-- 🌱 I’m currently learning anything
-- 💬 Ask me about security
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nouradeen)](https://github.com/anuraghazra/github-readme-stats)
