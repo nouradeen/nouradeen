@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/nour-al-dine-hassan-8a3817228/" title="LinkedIn Profile"><img width="22" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1655337600&v=beta&t=ksompCdI8mHhIsZzrsd5-fAgmLNUIrY0GvUmoukvIjo"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/nour-al-dine-hassan/" title="LinkedIn Profile"><img width="22" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1655337600&v=beta&t=ksompCdI8mHhIsZzrsd5-fAgmLNUIrY0GvUmoukvIjo"> LinkedIn</a></code>
 </h5>
 
 <br>
