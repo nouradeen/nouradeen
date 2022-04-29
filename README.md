@@ -36,7 +36,7 @@
 
 
 
-<h2 align="center">🔥 Languages 🔥</h2>
+<h2 align="center">🔥 Skills 🔥</h2>
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
