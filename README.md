@@ -44,6 +44,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?logo=android&style=social)&nbsp;&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?logo=visualstudio&style=social)&nbsp;&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?logo=microsoftoffice&style=social)&nbsp;&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-black?logo=windows&style=social)&nbsp;&nbsp;
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-black?logo=hackthebox&style=social)&nbsp;&nbsp;
+![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-black?logo=hackerone&style=social)&nbsp;&nbsp;
 
 <hr>
 
